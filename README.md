@@ -1,4 +1,4 @@
-DTS 201 - Introduction to Data Science in R
+Data Science in a Box
 
 This course utilizes the Data Science in a Box curriculum.
 
